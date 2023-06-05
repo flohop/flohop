@@ -73,7 +73,7 @@
 <h1 align="center"> 🤝 Socials: </h1>
   <p align="center">
 
-  <a href="https://flohop.com">
+  <a href="https://www.flohop.com">
     <img src="https://img.shields.io/badge/Personal-Website-green?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
     <a href="https://www.linkedin.com/in/florian-hoppe-857a7a208">
